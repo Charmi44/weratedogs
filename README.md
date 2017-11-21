@@ -9,11 +9,11 @@ Skills:
   * gathering data: programmatic file download, downloading API data
   * assessing data: documenting cleanliness and tidiness issues
   * cleaning data: cleaning for completeness, tidiness, validity, accuracy, consistency
-  * storing data: database, CSVs
-  * analyzing data: summary statistics
+  * storing data: CSVs
+  * analyzing data
   * visualizing data 
   * written report
 
-Libraries: pandas, json, tweepy, requests
+Libraries: pandas, json, tweepy, requests, matplotlib, seaborn, os, numpy
 
-Software: Jupyter Notebook, OpenOffice Calc
+Software: Jupyter Notebook, OpenOffice Calc, gDocs
